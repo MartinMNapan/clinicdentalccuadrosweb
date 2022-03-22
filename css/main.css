@@ -426,11 +426,12 @@ padding-bottom: 30px;
 	background: #fff;
 }
 .services-content {
-	padding: 30px 20px 20px 89px;
+	padding: 30px 20px 22px 89px;
 	margin-top: 30px;
 	background: #efefef;
 	border: 1px solid #fff;
 	text-align: left;
+	overflow: auto;
 }
 .services .icon {
 	color: #ffffff;
@@ -445,6 +446,14 @@ padding-bottom: 30px;
 	bottom: 0;
 	left: 0;
 	border-top: 1px solid #03a9f4;
+}
+
+.editContent{
+	text-align: justify;
+}
+
+.eidtContent{
+	text-align: justify;
 }
 /* ------------------------------------------------------------------------------
 	 gallery
